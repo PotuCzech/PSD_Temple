@@ -1,0 +1,59 @@
+2025-06-07 12:59:47,639 - __main__ - DEBUG - Styles configured successfully
+2025-06-07 12:59:47,649 - psd_editor.views.psd_view - INFO - Status: Ready
+2025-06-07 12:59:47,657 - psd_editor.views.psd_view - INFO - Status: Ready
+2025-06-07 12:59:47,679 - __main__ - DEBUG - UI components created successfully
+2025-06-07 12:59:47,692 - __main__ - DEBUG - Menu created successfully
+2025-06-07 12:59:47,692 - __main__ - INFO - PSD Editor initialized successfully
+2025-06-07 12:59:54,553 - psd_tools.psd.image_resources - WARNING - Unknown image resource 1092
+2025-06-07 12:59:54,818 - psd_editor.views.psd_view - INFO - Status: Loading bc0f9483-88d1-4878-9ab0-e03de070a4d2.psd...
+2025-06-07 12:59:54,842 - psd_tools.psd.image_resources - WARNING - Unknown image resource 1092
+2025-06-07 12:59:55,130 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-06-07 12:59:55,130 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 373
+2025-06-07 12:59:55,130 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC Profile'
+2025-06-07 12:59:55,130 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2025-06-07 12:59:55,131 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 426 65536
+2025-06-07 12:59:55,413 - psd_editor.rendering - DEBUG - Attempting to generate composite for PSD: <class 'psd_tools.api.psd_image.PSDImage'>
+2025-06-07 12:59:55,413 - psd_editor.rendering - DEBUG - Available PSD attributes: append, bbox, bottom, channels, clear, color_mode, compatibility_mode, composite, count, depth, descendants, extend, find, findall, frompil, has_preview, has_thumbnail, height, image_resources, index...
+2025-06-07 12:59:55,413 - psd_editor.rendering - DEBUG - Trying psd.composite() method
+2025-06-07 12:59:55,414 - psd_editor.views.psd_view - INFO - Status: Successfully loaded: bc0f9483-88d1-4878-9ab0-e03de070a4d2.psd
+2025-06-07 12:59:55,414 - psd_editor.controllers.psd_controller - INFO - Successfully loaded PSD: C:/Users/Dobrev/Downloads/bc0f9483-88d1-4878-9ab0-e03de070a4d2.psd in light mode
+2025-06-07 12:59:55,415 - psd_editor.views.psd_view - INFO - Status: Loaded: bc0f9483-88d1-4878-9ab0-e03de070a4d2.psd in light mode
+2025-06-07 12:59:55,420 - psd_editor.views.psd_view - INFO - Status: Image centered at 100%
+2025-06-07 13:00:47,263 - psd_editor.rendering - DEBUG - Successfully generated composite using psd.composite()
+2025-06-07 13:00:47,264 - psd_editor.rendering - DEBUG - Successfully generated composite: 5000x3333 RGBA
+2025-06-07 13:10:03,958 - psd_editor.views.psd_view - INFO - Status: Loading bc0f9483-88d1-4878-9ab0-e03de070a4d2.psd...
+2025-06-07 13:10:03,995 - psd_tools.psd.image_resources - WARNING - Unknown image resource 1092
+2025-06-07 13:10:04,265 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-06-07 13:10:04,265 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 373
+2025-06-07 13:10:04,267 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC Profile'
+2025-06-07 13:10:04,267 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2025-06-07 13:10:04,267 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 426 65536
+2025-06-07 13:10:04,574 - psd_editor.rendering - DEBUG - Attempting to generate composite for PSD: <class 'psd_tools.api.psd_image.PSDImage'>
+2025-06-07 13:10:04,575 - psd_editor.rendering - DEBUG - Available PSD attributes: append, bbox, bottom, channels, clear, color_mode, compatibility_mode, composite, count, depth, descendants, extend, find, findall, frompil, has_preview, has_thumbnail, height, image_resources, index...
+2025-06-07 13:10:04,581 - psd_editor.rendering - DEBUG - Trying psd.composite() method
+2025-06-07 13:10:04,582 - psd_editor.views.psd_view - INFO - Status: Successfully loaded: bc0f9483-88d1-4878-9ab0-e03de070a4d2.psd
+2025-06-07 13:10:04,589 - psd_editor.views.psd_view - INFO - Status: Image centered at 100%
+2025-06-07 13:10:34,147 - psd_editor.views.psd_view - INFO - Status: Loading bc0f9483-88d1-4878-9ab0-e03de070a4d2.psd...
+2025-06-07 13:10:34,192 - psd_tools.psd.image_resources - WARNING - Unknown image resource 1092
+2025-06-07 13:10:34,561 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-06-07 13:10:34,562 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 373
+2025-06-07 13:10:34,562 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC Profile'
+2025-06-07 13:10:34,563 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2025-06-07 13:10:34,563 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 426 65536
+2025-06-07 13:10:34,960 - psd_editor.rendering - DEBUG - Attempting to generate composite for PSD: <class 'psd_tools.api.psd_image.PSDImage'>
+2025-06-07 13:10:34,960 - psd_editor.rendering - DEBUG - Available PSD attributes: append, bbox, bottom, channels, clear, color_mode, compatibility_mode, composite, count, depth, descendants, extend, find, findall, frompil, has_preview, has_thumbnail, height, image_resources, index...
+2025-06-07 13:10:34,961 - psd_editor.rendering - DEBUG - Trying psd.composite() method
+2025-06-07 13:10:34,961 - psd_editor.views.psd_view - INFO - Status: Successfully loaded: bc0f9483-88d1-4878-9ab0-e03de070a4d2.psd
+2025-06-07 13:10:34,968 - psd_editor.views.psd_view - INFO - Status: Image centered at 100%
+2025-06-07 13:10:37,907 - psd_editor.views.psd_view - INFO - Status: Loading bc0f9483-88d1-4878-9ab0-e03de070a4d2.psd...
+2025-06-07 13:10:37,960 - psd_tools.psd.image_resources - WARNING - Unknown image resource 1092
+2025-06-07 13:10:38,416 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-06-07 13:10:38,417 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 373
+2025-06-07 13:10:38,417 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC Profile'
+2025-06-07 13:10:38,418 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2025-06-07 13:10:38,418 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 426 65536
+2025-06-07 13:10:38,919 - psd_editor.rendering - DEBUG - Attempting to generate composite for PSD: <class 'psd_tools.api.psd_image.PSDImage'>
+2025-06-07 13:10:38,920 - psd_editor.rendering - DEBUG - Available PSD attributes: append, bbox, bottom, channels, clear, color_mode, compatibility_mode, composite, count, depth, descendants, extend, find, findall, frompil, has_preview, has_thumbnail, height, image_resources, index...
+2025-06-07 13:10:38,921 - psd_editor.rendering - DEBUG - Trying psd.composite() method
+2025-06-07 13:10:38,921 - psd_editor.views.psd_view - INFO - Status: Successfully loaded: bc0f9483-88d1-4878-9ab0-e03de070a4d2.psd
+2025-06-07 13:10:38,930 - psd_editor.views.psd_view - INFO - Status: Image centered at 100%

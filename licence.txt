@@ -1,0 +1,23 @@
+AUTORSKÁ PRÁVA A LICENČNÍ PODMÍNKY
+
+Copyright (c) 2025 Michal Dobrev
+
+Veškerý obsah tohoto zdrojového kódu je chráněn autorským zákonem. Autor si vyhrazuje veškerá práva.
+
+Tento software je důvěrný a proprietární. Jakékoli kopírování, úpravy, šíření, publikace, využití pro komerční či nekomerční účely, nebo jiná manipulace s tímto kódem bez předchozího písemného souhlasu autora jsou výslovně zakázány.
+
+Porušení těchto podmínek může být považováno za porušení autorských práv a může vést k občanskoprávnímu nebo trestnímu řízení.
+
+Pro získání povolení k použití tohoto kódu kontaktujte autora na: michal.dobrev@gmail.com
+
+COPYRIGHT AND LICENSE TERMS
+
+Copyright (c) 2025 Michal Dobrev
+
+All content of this source code is protected under copyright law. The author reserves all rights.
+
+This software is confidential and proprietary. Any reproduction, modification, distribution, publication, or use—whether commercial or non-commercial—or any other handling of this code without the prior written permission of the author is strictly prohibited.
+
+Violation of these terms may constitute an infringement of copyright and may result in civil or criminal proceedings.
+
+To request permission to use this code, please contact the author at: michal.dobrev@gmail.com
